@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Spinner ui component matches snapshot 1`] = `
+<DocumentFragment>
+  <span
+    class="Spinner__StyledSpinner-gyn5vx-0 lkOToq"
+  />
+</DocumentFragment>
+`;

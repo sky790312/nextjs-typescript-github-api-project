@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Item component matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="Item__ItemContainer-wnfykx-0 kgDXOE"
+  >
+    <h3>
+      0
+    </h3>
+    <p>
+      Name: test -
+      <a
+        href="/test%20url"
+        rel="noreferrer"
+        target="_blank"
+      >
+        Link
+      </a>
+    </p>
+  </div>
+</DocumentFragment>
+`;

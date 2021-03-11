@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home page matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="GlobalStyles__Container-sc-1m5drgn-0 frTxMm"
+  >
+    <div
+      class="GlobalStyles__TextCenterContainer-sc-1m5drgn-1 kwExyG"
+    >
+      <h3>
+        search github repo by keyowrd: 
+      </h3>
+      <input
+        type="text"
+      />
+    </div>
+    <div
+      class="List__ListContainer-sc-1l9sj4l-0 entigL"
+    />
+    <div
+      class="GlobalStyles__TextCenterContainer-sc-1m5drgn-1 pages__LoadingContainer-sc-1cnstz1-0 kwExyG fQicZO"
+    >
+      <button
+        class="pages__Button-sc-1cnstz1-1 iMUhti"
+      >
+        Load More
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;

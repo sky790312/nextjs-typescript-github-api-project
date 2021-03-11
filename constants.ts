@@ -1,0 +1,3 @@
+export const DEFAULT_PER_PAGES = 30
+export const AUTO_LOAD_MORE_DELAY_TIME = 1000
+export const DEBOUNCE_DELAY_TIME = 500
